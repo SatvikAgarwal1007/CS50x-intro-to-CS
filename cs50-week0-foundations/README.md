@@ -22,8 +22,8 @@ The week concluded with a hands-on application: building an interactive program 
 **Description:** A simple game where the player follows the mouse cursor, avoids a chasing zombie, and collects apples to earn points.
 
 ## 📸 Screenshots
-![Project Page]("D:\Github projects\CS50x-intro-to-CS\cs50-week0-foundations\project_page_snippet.png")  
-![Gameplay Snippet]("D:\Github projects\CS50x-intro-to-CS\cs50-week0-foundations\script_snippet.png")
+![Project Page](D:\Github projects\CS50x-intro-to-CS\cs50-week0-foundations\project_page_snippet.png)  
+![Gameplay Snippet](D:\Github projects\CS50x-intro-to-CS\cs50-week0-foundations\script_snippet.png)
 
 ## 🔗 Links
 - **Scratch Project**: [Click Here to Play](https://scratch.mit.edu/projects/1206305350)
